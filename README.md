@@ -3,6 +3,8 @@ my links
 
 #RESTful web service
 http://www.restapitutorial.com/
+http://www.mkyong.com/tutorials/jax-rs-tutorials/
+http://www.javawebtutor.com/articles/web-services/rest/
 
 #PHP Interview Question
 http://www.letsknowit.com/php-questions
