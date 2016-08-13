@@ -47,3 +47,8 @@ http://codercareer.blogspot.com/
 http://algorithms.tutorialhorizon.com/
 https://www.learneroo.com/get-membership#subscribe
 https://github.com/tayllan/awesome-algorithms
+
+#Java Tutorial
+http://www.wideskills.com/hibernate/hibernate-in-web-application
+http://viralpatel.net/blogs/hibernate-maven-mysql-hello-world-example-xml-mapping/
+http://www.mkyong.com/tutorials/hibernate-tutorials/
